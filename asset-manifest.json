@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Markdown_Editor/static/css/main.fafba436.css",
+    "main.js": "/Markdown_Editor/static/js/main.2db71f79.js",
+    "static/js/787.1e346258.chunk.js": "/Markdown_Editor/static/js/787.1e346258.chunk.js",
+    "static/media/hero-img.png": "/Markdown_Editor/static/media/hero-img.14dc8f7a4d4b3edb0402.png",
+    "index.html": "/Markdown_Editor/index.html",
+    "main.fafba436.css.map": "/Markdown_Editor/static/css/main.fafba436.css.map",
+    "main.2db71f79.js.map": "/Markdown_Editor/static/js/main.2db71f79.js.map",
+    "787.1e346258.chunk.js.map": "/Markdown_Editor/static/js/787.1e346258.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fafba436.css",
+    "static/js/main.2db71f79.js"
+  ]
+}
